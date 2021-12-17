@@ -1,6 +1,6 @@
 # Face-Recognition-Based-Attendance-System
 <p align="center">
- <img src="https://www.acuant.com/wp-content/uploads/2017/02/iStock-641013458-e1488324610323.jpg" border="0" width="300" height="280" /></p>
+ <img src="https://www.acuant.com/wp-content/uploads/2017/02/iStock-641013458-e1488324610323.jpg" border="0" width="400" height="280" /></p>
 <p align="center">
   
 ## About
@@ -17,3 +17,11 @@
 ## GUI Interface
  
 ![Main Window](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/872e89d59cd1954c5c887e0b46c5328c4a381b5a/GUI%20Interface/Main%20Window.png)
+![Admin Window](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/301417677e8391b4c423bc10519a7e16ec1c8600/GUI%20Interface/Admin%20Login.png)
+![Member Window](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/301417677e8391b4c423bc10519a7e16ec1c8600/GUI%20Interface/Member%20Window.png)
+![Webcam](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/301417677e8391b4c423bc10519a7e16ec1c8600/GUI%20Interface/Chcek%20Webcam.png)
+ 
+## Result
+
+![Dataset](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/301417677e8391b4c423bc10519a7e16ec1c8600/GUI%20Interface/Dataset.png)
+![Result](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/301417677e8391b4c423bc10519a7e16ec1c8600/GUI%20Interface/Attendance.png)
