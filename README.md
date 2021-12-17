@@ -13,7 +13,12 @@
 2. [Capture Your Face](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/615f458775d8f8479f6ea341b48c283e112398b4/Capture_Face.ipynb)  
 3. [Train your Images](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/3a0a6b33e614ae5c7c7f516ea0abae82f3ab4f2e/Train_Images.ipynb)  
 4. [Click for Attendance](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/596bbf89fc287e043b58b515c27b99fe6773f04a/Face_Recognition.ipynb)  
-5. [Auto Mail the Attendance](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/7297838af7b79c1e0b6176920dcf44afadc07ae6/Automail_Attendance.ipynb)  
+5. [Auto Mail the Attendance](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/7297838af7b79c1e0b6176920dcf44afadc07ae6/Automail_Attendance.ipynb) 
+
+## Flow Chart of the complete Project
+
+![FlowChart](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/84b4ea54902020d4f1f0bdc76c6b218444b6dd16/GUI%20Interface/FlowChart.png)
+ 
 ## GUI Interface
  
 ![Main Window](https://github.com/Dikshabisht7/Face-Recognition-Based-Attendance-System/blob/872e89d59cd1954c5c887e0b46c5328c4a381b5a/GUI%20Interface/Main%20Window.png)
